@@ -35,4 +35,4 @@
 7. Histórico do Desenvolvimento (TDD):
    - O diretório versionado '.git' está incluído na raiz deste arquivo compactado,
      contendo todo o histórico de ciclos TDD (Red-Green-Refactor) com mais de 30 commits.
-===============================================================================
+======================================================================
